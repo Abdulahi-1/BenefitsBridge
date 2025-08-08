@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Child Support Benefit",
+    "description": "Financial aid for families with children.",
+    "applyURL": "https://example.com/child-support",
+    "minIncome": 3000,
+    "requiresKids": true,
+    "requiresEmployment": null
+  },
+  {
+    "name": "Unemployment Assistance",
+    "description": "Support for unemployed individuals.",
+    "applyURL": "https://example.com/unemployment",
+    "minIncome": 2000,
+    "requiresKids": null,
+    "requiresEmployment": false
+  }
+]
+
