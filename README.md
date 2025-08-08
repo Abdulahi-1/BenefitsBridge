@@ -1,4 +1,4 @@
-# Project 4 - BenefitsBridge
+# Capstone Project - BenefitsBridge
 
 Submitted by: **Abdulahi Abdi**
 
