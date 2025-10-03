@@ -1,6 +1,6 @@
 # BenefitsBridge
 
-Submitted by: **Abdulahi Abdi**
+Created by: **Abdulahi Abdi**
 
 BenefitsBridge is an iOS app that helps users discover government assistance programs they may qualify for based on income, family status, and employment requirements. The app displays program descriptions and allows users to open each program’s official website directly in Safari.
 
